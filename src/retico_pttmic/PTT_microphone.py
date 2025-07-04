@@ -9,10 +9,8 @@ which captures audio signal from the microphone and chunks the audio signal into
 import queue
 import sys
 import keyboard as keyb
-import librosa
 from pynput import keyboard
 import pyaudio
-import os
 
 import retico_core
 from retico_core.audio import MicrophoneModule
