@@ -1,2 +1,2 @@
 import retico_pttmic
-from src.retico_pttmic.PTT_microphone import PTTMicrophoneModule
+from retico_pttmic.PTT_microphone import PTTMicrophoneModule
